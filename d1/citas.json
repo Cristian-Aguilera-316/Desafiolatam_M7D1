@@ -1,0 +1,16 @@
+[
+    {
+      "nombre": "Benito",
+      "edad": "2 años",
+      "tipoAnimal": "perro",
+      "color": "blanco",
+      "enfermedad": "vomitos"
+    },
+    {
+      "nombre": "kai",
+      "edad": "4 años",
+      "tipoAnimal": "perro",
+      "color": "blanco con negro",
+      "enfermedad": "desorientacion"
+    }
+  ]
